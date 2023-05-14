@@ -5,9 +5,9 @@
 <br/>
 
 > GitIt is an interactive and informative event that focuses on teaching new core team members the basics of Git and GitHub, as well as how these tools are utilized within our organization, CodeChef-VIT. The session is designed to provide participants with a hands-on learning experience, covering topics such as Git installation and setup, GitHub, project initialization, file tracking stages, committing with good messages, pushing repositories to GitHub, using branches in Git, and pull requests.
-
+>
 >During the session, participants will have the opportunity to learn about the fundamental concepts of version control, branching, merging, and repository management. The importance of good commit messages and conventional commits will also be emphasized, along with best practices for using Git and GitHub in collaborative software development projects. Participants will be provided with step-by-step instructions and guidance to ensure they have a clear understanding of each topic.
-
+>
 >By the end of the session, participants will have gained a solid understanding of Git and GitHub and will be able to confidently apply this knowledge to their work at CodeChef-VIT. This event is perfect for those who are new to Git and GitHub or for those who want to refresh their knowledge and skills in these tools. With the practical hands-on experience provided, participants will be well-equipped to use Git and GitHub effectively in their software development projects.
 
 ---
