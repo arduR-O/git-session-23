@@ -12,9 +12,9 @@
 
 ---
 
-[![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](INSERT_LINK_FOR_DOCS_HERE) 
+[![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](https://drive.google.com/file/d/1Ptz8Jwys-WrPi86KmcD-kUfNHfaJE0wG/view?usp=sharing) 
 
-  [![PPT ](https://img.shields.io/badge/Presentation-Link%20to%20Presentaion-orange?style=flat-square&logo=appveyor)](INSERT_UI_LINK_HERE)
+  [![PPT ](https://img.shields.io/badge/Presentation-Link%20to%20Presentaion-orange?style=flat-square&logo=appveyor)](https://drive.google.com/file/d/1pzTskevXkUvI-8Xi2ZVdyVA0g6ZoQMt2/view?usp=sharing)
 
 
 ## Members
